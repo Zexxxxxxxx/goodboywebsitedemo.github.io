@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/goodboywebsitedemo.github.io/static/js/main.94f6469f.js",
+    "main.js": "/goodboywebsitedemo.github.io/static/js/main.da0f906f.js",
     "index.html": "/goodboywebsitedemo.github.io/index.html",
-    "main.94f6469f.js.map": "/goodboywebsitedemo.github.io/static/js/main.94f6469f.js.map"
+    "main.da0f906f.js.map": "/goodboywebsitedemo.github.io/static/js/main.da0f906f.js.map"
   },
   "entrypoints": [
-    "static/js/main.94f6469f.js"
+    "static/js/main.da0f906f.js"
   ]
 }
